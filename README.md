@@ -3,15 +3,13 @@
 ## I am on my journey to becoming a Font-end developer! 👩🏽‍💻
 
 
-
+- ⚡️ Self-starter front-end developer
 - 🔭 I’m currently looking for an opportunity to work as a junior front-end developer.
 - 👩🏽‍💻 My experiences are based on personal projects that you can find in my repositories. Feel free to comment and suggest improvements!
-- 🌱 I’m currently learning React Testing Library and test runners such as Jest.
 - 🤓 Thirsty for knowledge.
 - 📧 How to reach me: isadorapda@gmail.com
 - 😄 Pronouns: She/her
-- 🤔 Fun fact: I've got BSc (Hons) and MSc (with distinction) in Human Nutrition. 
-- 🫧 Hobbies: Yoga, cooking, reading, hanging out with friends, and watching tv shows/ films.
+- 🤔 Fun fact: I've got BSc and MSc in Human Nutrition. 
 
 
 ### Connect with me:
