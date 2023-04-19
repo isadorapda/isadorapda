@@ -1,15 +1,15 @@
-# Hello 🙋🏽‍♀️! I'm Isadora and I'm glad to see you here! ✨
+# Hello 🙋🏽‍♀️! I'm Isadora. ✨
 
-## I am on my journey to becoming a Font-end developer! 👩🏽‍💻
+## I am Font-end developer! 👩🏽‍💻
 
 
 - ⚡️ Self-starter front-end developer
-- 🔭 I’m currently looking for an opportunity to work as a junior front-end developer.
-- 👩🏽‍💻 My experiences are based on personal projects that you can find in my repositories. Feel free to comment and suggest improvements!
+- 🚀 I’m currently looking for an opportunity to work as a junior front-end developer.
+- 👩🏽‍💻 My goal is to become a fullstack developer.
 - 🤓 Thirsty for knowledge.
 - 📧 How to reach me: isadorapda@gmail.com
 - 😄 Pronouns: She/her
-- 🤔 Fun fact: I've got BSc and MSc in Human Nutrition. 
+- 📴 When I'm not coding, I'll be probably: reading, practising yoga, walking in a park, playing video games or board games, hanging out with friends, or watching films/series.
 
 
 ### Connect with me:
