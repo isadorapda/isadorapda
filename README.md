@@ -6,6 +6,7 @@
 - ⚡️ Self-starter front-end developer
 - 🚀 I’m currently looking for an opportunity to work as a junior front-end developer.
 - 👩🏽‍💻 My goal is to become a fullstack developer.
+- 👾 Currently learning Node.js.
 - 🤓 Thirsty for knowledge.
 - 📧 How to reach me: isadorapda@gmail.com
 - 😄 Pronouns: She/her
