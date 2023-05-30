@@ -1,11 +1,11 @@
 # Hello 🙋🏽‍♀️! I'm Isadora. ✨
 
-## I am Font-end developer! 👩🏽‍💻
+## I am software developer! 👩🏽‍💻
 
 
-- ⚡️ Self-starter front-end developer
-- 🚀 I’m currently looking for an opportunity to work as a junior front-end developer.
-- 👩🏽‍💻 My goal is to become a fullstack developer.
+- ⚡️ Self-starter developer
+- 🚀 I’m currently looking for a job opportunity.
+- 👩🏽‍💻 My goal is to become a fullstack software engineer.
 - 👾 Currently learning Node.js.
 - 🤓 Thirsty for knowledge.
 - 📧 How to reach me: isadorapda@gmail.com
