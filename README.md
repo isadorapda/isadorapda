@@ -1,4 +1,4 @@
-# Hello 🙋🏽‍♀️! I'm Isadora. ✨
+# Hello! I'm Isadora. ✨
 
 ## I am software developer! 👩🏽‍💻
 
