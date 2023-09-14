@@ -4,8 +4,6 @@
 
 
 - ⚡️ Self-starter developer
-- 🚀 I’m currently looking for a job opportunity.
-- 👩🏽‍💻 My goal is to become a full-stack software engineer.
 - 🤓 Thirsty for knowledge.
 - 📧 How to reach me: isadorapda@gmail.com
 - 😄 Pronouns: She/her
