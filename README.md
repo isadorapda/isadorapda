@@ -21,6 +21,7 @@
 ![file_type_typescript_official_icon_130107 1](https://user-images.githubusercontent.com/107930022/194300231-b1369b81-5a0d-4ad6-9d7f-2da486b8ee7b.svg)
 ![JavaScript](https://user-images.githubusercontent.com/107930022/194300132-bee9baad-9ba0-417a-8414-71e48f48721e.svg)
 ![nodejs](https://github.com/isadorapda/isadorapda/assets/107930022/2e5d1742-ff2e-4524-ad36-d76ad10f357d)
+![nest-icon](https://github.com/isadorapda/isadorapda/assets/107930022/975518f9-0f59-40a2-a93c-75dce0811276)
 ![React.js](https://user-images.githubusercontent.com/107930022/194299715-fca16b50-d739-4f8a-aaa3-2a95dc5a28cd.svg)
 ![nextjs](https://github.com/isadorapda/isadorapda/assets/107930022/ac1595a2-8e65-4d3d-b43d-5fbf1be1bddd)
 ![webpackLogo](https://github.com/isadorapda/isadorapda/assets/107930022/d2f2a378-a561-49a4-ad69-af80f369594f)
@@ -31,6 +32,7 @@
 ![jest](https://github.com/isadorapda/isadorapda/assets/107930022/daf83202-9bb1-44a1-9149-b7668e6b9b1d)
 ![testing-library](https://github.com/isadorapda/isadorapda/assets/107930022/0a887748-a92c-4f48-b285-6d2e64894dc4)
 ![react-query](https://github.com/isadorapda/isadorapda/assets/107930022/18b7c565-95f8-4607-92c4-7cd9d0f06170)
+
 
 ![file_type_vscode_icon_130084 1](https://user-images.githubusercontent.com/107930022/194299984-e986a0b4-3520-4ce1-b7fe-ab88d0256baf.svg)
 ![Git](https://user-images.githubusercontent.com/107930022/194300062-1156ced3-6f35-4300-b3f7-c204c4a41d78.svg)
